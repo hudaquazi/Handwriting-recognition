@@ -1,1 +1,1 @@
-# Machine-Learning-Handwriting-recognition
+# Handwriting-recognition-ML-Model
